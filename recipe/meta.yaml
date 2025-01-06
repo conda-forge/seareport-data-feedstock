@@ -26,6 +26,7 @@ requirements:
     - geopandas
     - httpx
     - platformdirs
+    - shapely
     - stamina
     - tqdm
     - xarray
