@@ -30,6 +30,7 @@ requirements:
     - tqdm
     - xarray
     - python-xxhash
+    - zstandard
 
 test:
   imports:
